@@ -6,8 +6,9 @@ import * as Constants from "./Constants"
 
 
  const headers = {
-  //"access-control-allow-origin" : "*",
-  "Content-Type": "application/json",
+  "access-control-allow-origin" : "*",
+  "Content-Type": "application/x-www-form-urlencoded",
+ 
 };
 
 export const registerStudent = (data) => async (dispatch) => {
