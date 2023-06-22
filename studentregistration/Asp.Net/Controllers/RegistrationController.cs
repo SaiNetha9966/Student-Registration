@@ -7,7 +7,6 @@ using System.Data.SqlClient;
 
 namespace Student_Registration.Controllers
 {
-    [DisableCors]
     [Route("api/[controller]")]
     [ApiController]
     public class RegistrationController : ControllerBase
@@ -19,7 +18,6 @@ namespace Student_Registration.Controllers
         {
             _configuration = configuration;
         }
-        [DisableCors]
         [HttpPost]
         [Route("Registration")]
 
@@ -35,7 +33,6 @@ namespace Student_Registration.Controllers
 
             return response;
         }
-        [DisableCors]
         [HttpPost]
         [Route("Login")]
 
@@ -51,7 +48,6 @@ namespace Student_Registration.Controllers
 
 
         }
-        [DisableCors]
         [HttpPost]
         [Route("UserApproval")]
 
@@ -66,7 +62,6 @@ namespace Student_Registration.Controllers
 
         }
 
-        [DisableCors]
         [HttpPost]
         [Route("ArticleApproval")]
 
@@ -80,7 +75,6 @@ namespace Student_Registration.Controllers
             return response;
 
         }
-        [DisableCors]
         [HttpPost]
         [Route("StaffRegistration")]
 
@@ -93,7 +87,6 @@ namespace Student_Registration.Controllers
             return response;
 
         }
-        [DisableCors]
         [HttpPost]
         [Route("DeleteStaff")]
 

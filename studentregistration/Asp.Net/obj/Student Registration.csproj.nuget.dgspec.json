@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\verit\\OneDrive\\Desktop\\Student Registration\\Student Registration.csproj": {}
+    "C:\\Users\\verit\\OneDrive\\Desktop\\React\\Student-Registration\\studentregistration\\Asp.Net\\Student Registration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\verit\\OneDrive\\Desktop\\Student Registration\\Student Registration.csproj": {
+    "C:\\Users\\verit\\OneDrive\\Desktop\\React\\Student-Registration\\studentregistration\\Asp.Net\\Student Registration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\verit\\OneDrive\\Desktop\\Student Registration\\Student Registration.csproj",
+        "projectUniqueName": "C:\\Users\\verit\\OneDrive\\Desktop\\React\\Student-Registration\\studentregistration\\Asp.Net\\Student Registration.csproj",
         "projectName": "Student Registration",
-        "projectPath": "C:\\Users\\verit\\OneDrive\\Desktop\\Student Registration\\Student Registration.csproj",
+        "projectPath": "C:\\Users\\verit\\OneDrive\\Desktop\\React\\Student-Registration\\studentregistration\\Asp.Net\\Student Registration.csproj",
         "packagesPath": "C:\\Users\\verit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\verit\\OneDrive\\Desktop\\Student Registration\\obj\\",
+        "outputPath": "C:\\Users\\verit\\OneDrive\\Desktop\\React\\Student-Registration\\studentregistration\\Asp.Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\verit\\AppData\\Roaming\\NuGet\\NuGet.Config",
